@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Clone of https://github.com/ThePrimeagen/kata-machine but in dart language.
+
+For the course: https://frontendmasters.com/courses/algorithms/
